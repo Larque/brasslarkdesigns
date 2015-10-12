@@ -1,3 +1,4 @@
+<script>
 $(document).ready(function(){
 	$('.tab1, .tab2, .tab3, .tab4').hover(function(){
 	$(this).addClass('active');
@@ -40,4 +41,4 @@ $(document).ready(function(){
 
 });
 
-
+</script>
