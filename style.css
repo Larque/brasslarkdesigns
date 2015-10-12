@@ -124,6 +124,7 @@ body {
 
 /*applies to template 009-intro plate*/
 .back2 {
+	background: url(https://cloud.githubusercontent.com/assets/7917600/10421668/718557bc-7061-11e5-9705-e370b6d6b089.png) no-repeat 0 0;
  	opacity: 0.9;
     	filter: alpha(opacity=40); /* For IE8 and earlier */
 	border: .75em solid #ffffff; /* #ff425a */
