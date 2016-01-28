@@ -181,7 +181,7 @@ position: relative;
 /* ----------- iPhone 4 and 4S ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
+edia only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
@@ -212,7 +212,7 @@ position: relative;
 }
 
 /* Portrait */
-@media only screen 
+dia only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
@@ -226,7 +226,7 @@ position: relative;
 }
 
 /* Landscape */
-@media only screen 
+dia only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2)
@@ -237,7 +237,7 @@ position: relative;
 /* ----------- iPhone 5 and 5S ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
+dia only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2) {
@@ -268,7 +268,7 @@ position: relative;
 }
 
 /* Portrait */
-@media only screen 
+dia only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
@@ -287,7 +287,7 @@ position: relative;
 /* ----------- iPhone 6 ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
+edia only screen 
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2) { 
@@ -317,7 +317,7 @@ position: relative;
 }
 
 /* Portrait */
-@media only screen 
+edia only screen 
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
@@ -326,7 +326,7 @@ position: relative;
 }
 
 /* Landscape */
-@media only screen 
+dia only screen 
   and (min-device-width: 375px) 
   and (max-device-width: 667px) 
   and (-webkit-min-device-pixel-ratio: 2)
@@ -337,7 +337,7 @@ position: relative;
 /* ----------- iPhone 6+ ----------- */
 
 /* Portrait and Landscape */
-@media only screen 
+dia only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
@@ -367,7 +367,7 @@ position: relative;
 }
 
 /* Portrait */
-@media only screen 
+dia only screen 
   and (min-device-width: 414px) 
   and (max-device-width: 736px) 
   and (-webkit-min-device-pixel-ratio: 3)
