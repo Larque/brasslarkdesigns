@@ -3,7 +3,7 @@ a { color: inherit; }
 html { overflow-x: hidden; }
 
 body {
-  	background-color: #3a3a3a;/* #2f1A3f */
+  	background-color: #3a3a3a;
 	background-position: top center;
 	background-attachment: absolute;
 	height: 100%;
@@ -12,10 +12,9 @@ body {
   	max-width: 100em;
 	min-height: 72em;
 	max-height: 150em; 
-	order-top: 2.5em solid #000;
 	margin: 0em;
-	background-color: #fff;/* #2f1A3f */
-	order: 5em solid blue;	
+	background-color: #fff;
+
 }	
 
 /*-----------------------------------------------------------------------
@@ -392,10 +391,9 @@ dia only screen
   	border-collapse: collapse;
 	background: #161343; /*#1613a3;*/
 	opacity: 1;
-	-moz-opacity: 0.3;  
-    -khtml-opacity: 0.3;  
-    filter: alpha(opacity=70); /* For IE8 and earlier */
-	order: .5em dashed blue; 
+	-moz-opacity: 1;  
+	 -khtml-opacity: 1;  
+	 filter: alpha(opacity=100); /* For IE8 and earlier */
 	z-index: 1;
 	width: 80%;
 	position: absolute;
