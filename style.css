@@ -4,6 +4,7 @@ html { overflow-x: hidden; }
 
 body {
   	background-color: #3a3a3a;/* #2f1A3f */
+	ackground: url(https://cloud.githubusercontent.com/assets/7917600/12638380/863b49e2-c551-11e5-9a70-1545921977dc.png) no-repeat 0 0;
 	background-position: top center;
 	background-attachment: absolute;
 	height: 100%;
@@ -12,8 +13,10 @@ body {
   	max-width: 100em;
 	min-height: 72em;
 	max-height: 150em; 
+	order-top: 2.5em solid #000;
 	margin: 0em;
 	background-color: #fff;/* #2f1A3f */
+	order: 5em solid blue;	
 }	
 
 /*-----------------------------------------------------------------------
@@ -23,7 +26,8 @@ body {
 -------------------------------------------------------------------------*/
 
 .container {
-	background: url(images/stripe-background3_006.png);
+	ackground-color: #3a3a3a;/* #2f1A3f */
+	background: url(https://cloud.githubusercontent.com/assets/7917600/12638380/863b49e2-c551-11e5-9a70-1545921977dc.png);
 	background-repeat: repeat-x;
 	background-position: top center;
 	ackground-attachment: ;
@@ -50,7 +54,7 @@ body {
 
 .about-container {
 	ackground-color: red;/* #2f1A3f */
-	background: url(images/stripe-background3_006.png);
+	background: url(https://cloud.githubusercontent.com/assets/7917600/12638380/863b49e2-c551-11e5-9a70-1545921977dc.png);
 	background-repeat: repeat-x;
 	background-position: top center;
 	ackground-attachment: ;
@@ -587,7 +591,7 @@ position: relative;
 
 
 .back {
-	background: url(images/background_002.3.png) no-repeat 0 0;
+	background: url(https://cloud.githubusercontent.com/assets/7917600/12638433/e906afb2-c551-11e5-87bf-e74ebb6cace5.png) no-repeat 0 0;
  	background-position: top center;
  	opacity: 0.3; 
    	ackground: #11aaff;
