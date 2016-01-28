@@ -4,7 +4,6 @@ html { overflow-x: hidden; }
 
 body {
   	background-color: #3a3a3a;/* #2f1A3f */
-	ackground: url(https://cloud.githubusercontent.com/assets/7917600/12638380/863b49e2-c551-11e5-9a70-1545921977dc.png) no-repeat 0 0;
 	background-position: top center;
 	background-attachment: absolute;
 	height: 100%;
@@ -1163,16 +1162,13 @@ Text: "Brasslark"
 	margin-top: -.3em;
 	box-shadow: 0 5em 15em rgba(0,0,0.2,0.1);
 	border-radius: .5em;
-	argin-left: .1em;
-	argin-right: .1em;
  	font-family: Arial Black, Gadget, sans-serif;
-	ackground-color: lightgreen;
 	left: 50%;
 	-webkit-transform: translate(-50%, 0%);	
 	-moz-transform: translate(-50%, 0%);
 	-ms-transform: translate(-50%, 0%);
 	-o-transform: translate(-50%, 0%);
-	ransform: translate(-100%, 0%);
+	transform: translate(-50%, 0%);
 	width: 10em;
 	position: relative;
 }
