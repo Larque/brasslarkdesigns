@@ -481,30 +481,24 @@ position: relative;
 .table3-1 { 
   	border-collapse: collapse;
 	z-index: 10;
-	
-	order: .1em dashed blue; 
 	background: #000;
 	height: 150em;
 	width: 100%;
 	background: #000;
-	argin-top: 0em;
 	position: absolute;
 	margin-left: 50%;
-	
 	min-height: 25em;
 	max-height: 30em;
-	
 	top: 130em;
 	min-width: 16em;
 	max-width: 35em;	
-	op: 100em;	
 	left: 0%;
 	border-radius: 2em;	
 	-webkit-transform: translate(-50%, -50%);
 	-moz-transform: translate(-50%, -50%);
 	-ms-transform: translate(-50%, -50%);
 	-o-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
+	ransform: translate(-50%, -50%);
 	background-color: black;
 	
 
