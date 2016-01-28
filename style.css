@@ -52,11 +52,9 @@ body {
 }
 
 .about-container {
-	ackground-color: red;/* #2f1A3f */
 	background: url(https://cloud.githubusercontent.com/assets/7917600/12638380/863b49e2-c551-11e5-9a70-1545921977dc.png);
 	background-repeat: repeat-x;
 	background-position: top center;
-	ackground-attachment: ;
 	position: absolute;
 	height: 100%;
 	width: 77%;
@@ -66,7 +64,6 @@ body {
 	max-height: 200em; 
 	border: .1em solid #470047;
 	margin-top: 0em;
-	ackground-color: red;/* #2f1A3f */
 	top: 0%;		
 	left: 50%;
 	-webkit-transform: translate(-50%, 0%);	
@@ -74,7 +71,6 @@ body {
 	-ms-transform: translate(-50%, 0%);
 	-o-transform: translate(-50%, 0%);
 	transform: translate(-50%, 0%);	
-	order-top: 1em solid #000;
 	
 }
 
@@ -817,11 +813,7 @@ img.ri:empty {
 
 basePort2 {
 	z-index: 3;
-	in-width: 25%;
-	ackground-color: blue;
 	color: #aaaaa5;
-	argin-top: 100em;
-	
 	margin-left: 20%;
 	border-bottom-left-radius: 2em;
 	border-bottom-right-radius: 1em;
@@ -845,22 +837,15 @@ basePort2 {
 basePort1 {
 	height: 10%;
 	width: 18em;
-	ackground-color: blue;
-	pacity: .9;
-    ilter: alpha(opacity=40);
 	color: #000;
 	/*transform:rotate(6deg);*/
 	/*-ms-transform:rotate(6deg); /* IE 9 */
 	/*-webkit-transform:rotate(6deg); /* Opera, Chrome, and Safari */
-	argin-top: 15%;
-	order: 5em solid #000000;
 	position: relative;
-	argin-left: 0%;
 	border-right: 5em;
 	border-top: .2em;
 	border-radius: 1em;
 	text-align: center;
-	adding-top: 8%;
 	margin-top: -30em;
     	 
 }
@@ -977,10 +962,9 @@ tabStyle2 {
 active2 {
 	height: 4.5em;
 	width: 15%;
-	order-top-right-radius: 1em;
-	order-bottom-right-radius: 0em;
+
 	opacity: 1;
-    	filter: alpha(opacity=10);
+   
 	color: #f315ca; /*#2f1a9f; #6a0000;*/
 	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from (#110011), to(#440011));
 	background-image: -webkit-linear-gradient(left, #111188, #550011);
