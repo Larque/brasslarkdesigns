@@ -390,10 +390,10 @@ dia only screen
 	padding-right: 2em;
   	border-collapse: collapse;
 	background: #161343; /*#1613a3;*/
-	opacity: .5;
-	-moz-opacity: .5;  
-	 -khtml-opacity: .5;  
-	 filter: alpha(opacity=50); /* For IE8 and earlier */
+	opacity: 1;
+	-moz-opacity: 1;  
+	 -khtml-opacity: 1;  
+	 filter: alpha(opacity=100); /* For IE8 and earlier */
 	z-index: 1;
 	width: 80%;
 	position: absolute;
