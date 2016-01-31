@@ -48,7 +48,7 @@ body {
 }
 
 .about-container {
-	ackground: url(https://cloud.githubusercontent.com/assets/7917600/12638380/863b49e2-c551-11e5-9a70-1545921977dc.png);
+	background: url(https://cloud.githubusercontent.com/assets/7917600/12638380/863b49e2-c551-11e5-9a70-1545921977dc.png);
 	background-repeat: repeat-x;
 	background-position: top center;
 	position: absolute;
@@ -576,7 +576,7 @@ dia only screen
     		"welcome message" 
 ---------------------------------------*/
 .back2 {
-	background: url(https://cloud.githubusercontent.com/assets/7917600/10737936/22d6541e-7bd2-11e5-851f-4b73f990ccc6.png) no-repeat 0 0;
+	ackground: url(https://cloud.githubusercontent.com/assets/7917600/10737936/22d6541e-7bd2-11e5-851f-4b73f990ccc6.png) no-repeat 0 0;
  	background-color: white;
  	opacity: .8;
     	filter: alpha(opacity=40); /* For IE8 and earlier */
