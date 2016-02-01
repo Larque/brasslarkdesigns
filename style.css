@@ -1484,7 +1484,7 @@ td {
 	width: 75%;
   	top: 60em;
 	border: .1em solid #a155aa;
-	height: 50em;
+	height: 30em;
 	opacity: 100;
     filter: alpha(opacity=100); /* For IE8 and earlier */
 	position: absolute;
